@@ -1,0 +1,9 @@
+main: com.trainerlord.worldguardtabinterface.WorldGuardTabInterface
+name: WorldGuardTabInterface
+version: 0.0.1
+authors:
+ - Trainerlord
+api-version: 1.15
+load: STARTUP
+depend:
+ - WorldGuard
